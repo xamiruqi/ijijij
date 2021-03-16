@@ -1,0 +1,55 @@
+*{
+    margin: 2px;
+}
+
+#ok
+{
+    background-color: #d0d1d3;
+    width: 550px;
+    height: 700px;
+    display: block;
+    margin-top: 65px;
+    margin: auto;
+    text-align: center;
+}
+
+#imagen
+{
+width: 450px;
+margin: auto;
+margin-top: 100px;
+}
+
+#title
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 28px;
+    padding-top: 60px;
+}
+
+#parrafo
+{
+    text-align: left;
+    width: 530px;
+    display: block;
+    margin: auto;
+    font-size: 18px;
+    padding-top: 30px;
+    line-height: 20px;
+}
+
+#boton
+{
+    background-color: #ea1a27;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    width: fit-content;
+    height: 10px;
+    padding: 30px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
